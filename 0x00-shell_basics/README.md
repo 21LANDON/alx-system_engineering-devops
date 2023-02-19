@@ -1,2 +1,2 @@
 #!/bin/bash
-locates the user 
+ls
